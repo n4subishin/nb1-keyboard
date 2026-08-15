@@ -1,0 +1,29 @@
+# QMK build artifacts
+.build/
+*.bin
+*.hex
+*.uf2
+*.elf
+*.map
+*.o
+*.d
+
+# KiCad backups and generated files
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+fp-info-cache
+_autosave-*
+*.net
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
