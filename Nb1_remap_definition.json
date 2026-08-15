@@ -1,0 +1,31 @@
+{
+  "name": "Nb.1",
+  "vendorId": "0x1209",
+  "productId": "0x0001",
+  "matrix": {
+    "rows": 3,
+    "cols": 4
+  },
+  "layouts": {
+    "keymap": [
+      [
+        "0,0\n\n\n\ne0",
+        "0,1\n\n\n\ne1",
+        "0,2\n\n\n\ne2",
+        "0,3\n\n\n\ne3"
+      ],
+      [
+        "1,0\n\n\n\ne4",
+        "1,1\n\n\n\ne5",
+        "1,2\n\n\n\ne6",
+        "1,3\n\n\n\ne7"
+      ],
+      [
+        "2,0\n\n\n\ne8",
+        "2,1\n\n\n\ne9",
+        "2,2\n\n\n\ne10",
+        "2,3\n\n\n\ne11"
+      ]
+    ]
+  }
+}
